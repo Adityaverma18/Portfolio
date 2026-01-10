@@ -82,13 +82,34 @@ export const projects = [
 ];
 
 export const achievements = [
-  "⭐ CodeChef 3★ (Rating 1616)",
-  "🏆 Global Rank 34 in CodeChef Global Starters 158",
-  "📈 Codeforces Pupil",
-  "✅ Solved 500+ DSA problems across platforms",
-  "🚀 Qualified Round 1 – Flipkart Grid 2024",
-  "💡 Participant – Smart India Hackathon 2024",
+  "⭐ CodeChef 3★ Coder with a peak rating of 1616, demonstrating strong problem-solving and competitive programming skills.",
+  
+  "🏆 Secured Global Rank 34 in CodeChef Global Starters 158, competing among thousands of participants worldwide.",
+  
+  "📈 Codeforces Pupil, with consistent performance in algorithmic contests focusing on data structures and optimization.",
+  
+  "✅ Solved 500+ DSA problems across platforms like CodeChef, Codeforces, and LeetCode, covering arrays, trees, graphs, DP, and greedy techniques.",
 ];
+
+export const competitiveProfiles = {
+  codechef: {
+    platform: "CodeChef",
+    rating: "1616 (3★)",
+    link: "https://www.codechef.com/users/aadi_10",
+  },
+  codeforces: {
+    platform: "Codeforces",
+    rank: "Pupil",
+    link: "https://codeforces.com/profile/aadi07",
+  },
+  leetcodes: {
+    platform: "Leetcodes",
+    rank: "100+ DSA problems",
+    link: "https://leetcode.com/u/aadi_7/",
+  },
+  
+};
+
 
 export const githubProjects = [
   {
