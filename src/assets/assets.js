@@ -63,7 +63,7 @@ export const projects = [
     description:
       "A full-stack sneaker e-commerce platform featuring secure JWT-based authentication, role-based access control, and optimized REST APIs. The backend was designed for scalability with efficient database queries and modular architecture.",
     github: "https://github.com/Adityaverma18/sneaker-hub",
-    website: "https://sneakerhub.vercel.app",
+    website: "https://sneekar-hubfrontend.onrender.com/",
   },
   {
     title: "Emotion Recognition System",
@@ -118,7 +118,7 @@ export const githubProjects = [
     description:
       "A full-stack sneaker e-commerce platform featuring secure JWT-based authentication, role-based access control, and optimized REST APIs. The backend was designed for scalability with efficient database queries and modular architecture.",
     github: "https://github.com/Adityaverma18/sneaker-hub",
-    website: "https://sneakerhub.vercel.app",
+    website: "https://sneekar-hubfrontend.onrender.com/",
   },
   {
     title: "Emotion Recognition System",
