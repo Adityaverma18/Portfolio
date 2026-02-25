@@ -119,8 +119,4 @@ const Projects = () => {
   );
 };
 
-<<<<<<< HEAD
 export default Projects;
-=======
-export default Projects;
->>>>>>> 48a560ce67372d8eb6dec6317413a256024658aa
